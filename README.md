@@ -20,3 +20,5 @@ Added support for VDBs and Volumes
 Enjoy!
 
 demo = https://www.youtube.com/watch?v=jCIna2R1pVk
+
+update quick showcase = https://youtu.be/VXcyvzBs9-c
