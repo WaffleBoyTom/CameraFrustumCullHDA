@@ -6,13 +6,16 @@ Add path to camera,
 
 set padding
 
-Edit :
-
 version 2.0 : 
 
 compute distance and normalized distance to camera
 occlusion culling
 depth culling
+
+version 3.0 :
+Added frustum visualizer
+Added support for VDBs and Volumes
+
 
 Enjoy!
 
